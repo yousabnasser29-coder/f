@@ -11,8 +11,8 @@
  ],
  "pay": "",
  "verify": true,
- "ntext": "",
+ "ntext": "اهلا بيكم شكرا لثقتكم بنا",
  "ntype": "info",
- "non": false,
+ "non": true,
  "banner": null
 }
