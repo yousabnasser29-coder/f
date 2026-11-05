@@ -163,16 +163,5 @@
   "wmin": 4,
   "inStock": true,
   "id": "d16"
- },
- {
-  "name": "تونة (كرتونة 48)",
-  "cat": "معلبات",
-  "price": 1900,
-  "unit": "كرتونة",
-  "emoji": "🐟",
-  "wp": 1820,
-  "wmin": 2,
-  "inStock": true,
-  "id": "d17"
  }
 ]
