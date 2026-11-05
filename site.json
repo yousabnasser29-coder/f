@@ -13,5 +13,6 @@
  "verify": true,
  "ntext": "",
  "ntype": "info",
- "non": false
+ "non": false,
+ "banner": null
 }
