@@ -42,16 +42,5 @@
   "wmin": 5,
   "inStock": true,
   "id": "d13"
- },
- {
-  "name": "مسحوق غسيل 2 كجم",
-  "cat": "منظفات",
-  "price": 120,
-  "unit": "عبوة",
-  "emoji": "🧺",
-  "wp": 110,
-  "wmin": 12,
-  "inStock": false,
-  "id": "d14"
  }
 ]
