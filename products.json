@@ -31,16 +31,5 @@
   "wmin": 5,
   "inStock": true,
   "id": "d12"
- },
- {
-  "name": "مشروب غازي (كرتونة 24)",
-  "cat": "مشروبات",
-  "price": 420,
-  "unit": "كرتونة",
-  "emoji": "🥤",
-  "wp": 400,
-  "wmin": 5,
-  "inStock": true,
-  "id": "d13"
  }
 ]
