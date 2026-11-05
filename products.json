@@ -152,16 +152,5 @@
   "wmin": 4,
   "inStock": true,
   "id": "d15"
- },
- {
-  "name": "فول معلب (كرتونة 24)",
-  "cat": "معلبات",
-  "price": 520,
-  "unit": "كرتونة",
-  "emoji": "🥫",
-  "wp": 495,
-  "wmin": 4,
-  "inStock": true,
-  "id": "d16"
  }
 ]
