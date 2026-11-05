@@ -9,16 +9,5 @@
   "wmin": 3,
   "inStock": true,
   "id": "d7"
- },
- {
-  "name": "بيض أبيض",
-  "cat": "ألبان وبيض",
-  "price": 130,
-  "unit": "كرتونة 30",
-  "emoji": "🥚",
-  "wp": 124,
-  "wmin": 10,
-  "inStock": true,
-  "id": "d8"
  }
 ]
