@@ -141,16 +141,5 @@
   "wmin": 12,
   "inStock": true,
   "id": "d14"
- },
- {
-  "name": "سائل أطباق (كرتونة 12)",
-  "cat": "منظفات",
-  "price": 380,
-  "unit": "كرتونة",
-  "emoji": "🧼",
-  "wp": 360,
-  "wmin": 4,
-  "inStock": true,
-  "id": "d15"
  }
 ]
