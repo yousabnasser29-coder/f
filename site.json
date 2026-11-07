@@ -14,5 +14,8 @@
  "ntext": "اهلا بيكم شكرا لثقتكم بنا",
  "ntype": "info",
  "non": true,
- "banner": null
+ "banner": {
+  "img": "",
+  "text": ""
+ }
 }
